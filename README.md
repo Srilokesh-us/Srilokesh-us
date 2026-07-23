@@ -1,65 +1,63 @@
-<h1 align="center">Hi 👋, I'm Chollangi Srilokesh</h1>
-<h3 align="center">Aspiring AI Engineer | Machine Learning Enthusiast | Generative AI Learner</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+AI+Engineer;Machine+Learning+Enthusiast;Deep+Learning+Learner;Building+AI+Projects;Learning+LLMs,+RAG+%26+AI+Agents" />
-</p>
+# 👋 Hi, I'm **Chollangi Srilokesh**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Srilokesh-us&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Srilokesh-us?style=for-the-badge&logo=github" />
-</p>
+### 🚀 Aspiring AI Engineer | Machine Learning Enthusiast | Generative AI Learner
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer+in+Progress;Machine+Learning+Developer;Deep+Learning+Enthusiast;Building+AI+Projects;Exploring+LLMs+%7C+RAG+%7C+AI+Agents" />
 
-## 🚀 About Me
+<img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-8f44-4d10-9d5b-7f6c5d8f4c6d.gif" width="700">
 
-- 🎓 B.Tech CSE Student at **Pragati Engineering College**
-- 🤖 Aspiring **AI Engineer**
-- 🌱 Currently learning **Large Language Models (LLMs), RAG, AI Agents & Advanced Generative AI**
-- 💡 Passionate about solving real-world problems using AI
-- 📚 Strong foundation in Python, Machine Learning, Deep Learning, SQL, and Data Science
-- 🎯 Goal: Build intelligent AI applications that make a real-world impact
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 💫 About Me
 
-### Programming Languages
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b7-ed2c0aa17459.gif">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,mysql" />
-</p>
+🎓 B.Tech Computer Science Student
 
-### AI / ML
+🤖 Passionate about Artificial Intelligence & Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
+🌱 Currently learning
 
-- Machine Learning
-- Deep Learning
-- Generative AI
-- NLP
-- Computer Vision
-- LLMs
+- Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
-- LangChain
-- Hugging Face
-- Scikit-learn
-- Pandas
-- NumPy
-- Matplotlib
+- AI Agents
+- Deep Learning
 
-### Tools
+💻 Love building intelligent applications using Python.
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postgres" />
+🎯 Goal: Become an AI Engineer and build impactful AI solutions.
+
+---
+
+# ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,tensorflow,pytorch,docker,git,github,vscode" />
+
 </p>
 
-- Jupyter Notebook
-- Google Colab
-- Postman
+### AI & Data Science
+
+```
+✔ Machine Learning
+✔ Deep Learning
+✔ Generative AI
+✔ NLP
+✔ Computer Vision
+✔ LLMs
+✔ RAG
+✔ LangChain
+✔ Hugging Face
+✔ NumPy
+✔ Pandas
+✔ Matplotlib
+✔ Scikit-learn
+```
 
 ---
 
@@ -67,47 +65,37 @@
 
 ## 📄 AI Resume Analyzer
 
-- Resume parsing using NLP
-- ATS compatibility suggestions
-- Interactive Streamlit application
+🟢 Resume Parsing
 
-**Tech:** Python • Streamlit • NLP • Scikit-learn
+🟢 NLP Processing
+
+🟢 ATS Suggestions
+
+🟢 Streamlit UI
 
 ---
 
 ## 🤖 Intelligent Chatbot using LLM
 
-- Built using LangChain & Hugging Face
-- Retrieval-Augmented Generation (RAG)
-- Semantic Search with FAISS
-- Prompt Engineering
+🟢 LangChain
+
+🟢 Hugging Face
+
+🟢 FAISS
+
+🟢 Retrieval-Augmented Generation
+
+🟢 Prompt Engineering
 
 ---
 
 ## 🏡 House Price Prediction
 
-- Machine Learning Regression
-- Data Cleaning
-- Feature Engineering
-- Model Evaluation
+🟢 Regression Model
 
----
+🟢 Feature Engineering
 
-# 📜 Certifications
-
-- Python for Data Science
-- Machine Learning with Python
-- Deep Learning Fundamentals
-- Generative AI & Large Language Models
-- SQL for Data Analytics
-
----
-
-# 🏆 Achievements
-
-- Solved Data Structures & Algorithms problems.
-- Built multiple AI & Machine Learning projects.
-- Continuously learning modern AI technologies.
+🟢 Model Evaluation
 
 ---
 
@@ -120,14 +108,14 @@
 </a>
 
 <a href="https://www.hackerrank.com/profile/srilokeshcholla1">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -145,7 +133,17 @@
 
 ---
 
-# 🌐 Connect with Me
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Srilokesh-us&theme=tokyonight&row=1&column=6"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -161,24 +159,14 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/Srilokesh_2025/">
-<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/srilokeshcholla1">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank"/>
-</a>
-
 </p>
 
 ---
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Srilokesh-us&theme=tokyonight&row=1&column=6"/>
-</p>
+<div align="center">
 
----
+### 💡 *"Building intelligent AI solutions for real-world impact."*
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00C9FF,100:92FE9D&section=footer"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,100:FC00FF&height=180&section=footer"/>
+
+</div>

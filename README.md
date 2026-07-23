@@ -1,187 +1,375 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<!-- 
-  GitHub Profile README — vinayux8055
-  Save this as README.md inside a repo named EXACTLY "vinayux8055" 
-  (a repo matching your username is what makes it appear on your profile page).
--->
+<title>Chollangi Srilokesh | Resume</title>
 
-<div align="center">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
 
-<!-- Wave banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:0AC9C9&height=200&section=header&text=Chollangi%20Sri%20Lokesh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20CSE%20Student&descAlignY=58&descSize=18" />
+<style>
 
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Java+Full+Stack+Developer;Aspiring+Software+Engineer;UI%2FUX+Designer;Open+Source+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:'Poppins',sans-serif;
+scroll-behavior:smooth;
+}
 
-<br/>
+body{
+background:linear-gradient(135deg,#0f172a,#1e3a8a,#2563eb);
+background-size:400% 400%;
+animation:bgAnimation 12s infinite alternate;
+padding:40px;
+}
 
-<a href="https://linkedin.com/in/vinayux8055"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:vinayux8055@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/u/vinayux8055"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://vinayuxportfolio.lovable.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+@keyframes bgAnimation{
+0%{background-position:left;}
+100%{background-position:right;}
+}
 
-<img src="https://komarev.com/ghpvc/?username=vinayux8055&label=Profile%20Views&color=0e75b6&style=flat-square"/>
+.container{
+max-width:1000px;
+margin:auto;
+background:rgba(255,255,255,.12);
+backdrop-filter:blur(15px);
+border-radius:20px;
+padding:40px;
+color:white;
+box-shadow:0 15px 40px rgba(0,0,0,.4);
+animation:fadeUp 1.2s ease;
+}
+
+@keyframes fadeUp{
+from{
+opacity:0;
+transform:translateY(50px);
+}
+to{
+opacity:1;
+transform:translateY(0);
+}
+}
+
+header{
+text-align:center;
+padding-bottom:25px;
+border-bottom:2px solid rgba(255,255,255,.3);
+}
+
+header h1{
+font-size:42px;
+letter-spacing:2px;
+color:#00e5ff;
+text-shadow:0 0 15px cyan;
+}
+
+header h3{
+margin-top:10px;
+font-weight:400;
+color:#ddd;
+}
+
+.contact{
+margin-top:20px;
+display:flex;
+flex-wrap:wrap;
+justify-content:center;
+gap:20px;
+font-size:15px;
+}
+
+section{
+margin-top:35px;
+animation:slideIn 1s ease;
+}
+
+@keyframes slideIn{
+from{
+opacity:0;
+transform:translateX(-40px);
+}
+to{
+opacity:1;
+transform:translateX(0);
+}
+}
+
+h2{
+display:inline-block;
+padding-bottom:5px;
+border-bottom:3px solid #00e5ff;
+margin-bottom:15px;
+color:#00e5ff;
+}
+
+p{
+line-height:1.8;
+}
+
+ul{
+padding-left:20px;
+}
+
+li{
+margin-bottom:10px;
+transition:.3s;
+}
+
+li:hover{
+transform:translateX(10px);
+color:#00e5ff;
+}
+
+.card{
+background:rgba(255,255,255,.08);
+padding:20px;
+border-radius:15px;
+margin-bottom:20px;
+transition:.4s;
+border:1px solid rgba(255,255,255,.2);
+}
+
+.card:hover{
+transform:translateY(-8px) scale(1.02);
+box-shadow:0 15px 30px rgba(0,229,255,.3);
+}
+
+.skills{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+gap:15px;
+}
+
+.skill{
+background:rgba(255,255,255,.08);
+padding:15px;
+border-radius:12px;
+transition:.4s;
+}
+
+.skill:hover{
+background:#00e5ff;
+color:#000;
+transform:scale(1.05);
+}
+
+footer{
+margin-top:40px;
+text-align:center;
+color:#ddd;
+font-size:14px;
+}
+
+@media(max-width:700px){
+
+header h1{
+font-size:30px;
+}
+
+.contact{
+flex-direction:column;
+align-items:center;
+}
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<header>
+
+<h1>CHOLLANGI SRILOKESH</h1>
+
+<h3>AI Engineer | Machine Learning Enthusiast</h3>
+
+<div class="contact">
+
+<div>📞 +91 6300852355</div>
+
+<div>📧 srilokeshchollangi369@gmail.com</div>
+
+<div>🔗 LinkedIn</div>
+
+<div>🔗 GitHub</div>
 
 </div>
 
-<br/>
+</header>
 
-## 💫 About Me
+<section>
 
-I'm a 3rd-year **Computer Science Engineering** student who enjoys building clean, practical software — from full-stack web apps to voice-controlled assistants. I'm currently sharpening my **Python and DSA** skills while exploring **Node.js and Firebase**, with the goal of becoming a strong **Software Engineer / Java Full Stack Developer**.
+<h2>Professional Summary</h2>
 
-- 🎓 3rd-year **B.Tech CSE** student at **Pragati Engineering College**, GPA **8.03/10**
-- 💼 Completed a **Java Full Stack Development internship** at Anurag IT Solutions (Java, Spring Boot, HTML/CSS/JS, MySQL)
-- 🧩 Enjoy solving **DSA** problems and building real-world, user-friendly applications
-- 🎯 Actively looking for **Software Development Internship** opportunities
-- 📢 Grew a **4,000+ follower** LinkedIn community sharing technical content
+<p>
 
----
+Aspiring AI Engineer with strong knowledge of Python, Machine Learning,
+Deep Learning, Data Science and Generative AI. Passionate about building
+intelligent applications using LLMs, RAG, NLP and Computer Vision to solve
+real-world problems.
 
-## 🚀 Tech Stack
+</p>
 
-<div align="center">
+</section>
 
-**Languages**
-<br/>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<section>
 
-**Frontend**
-<br/>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<h2>Technical Skills</h2>
 
-**Backend & Database**
-<br/>
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<div class="skills">
 
-**Tools & Platforms**
-<br/>
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<div class="skill"><b>Languages</b><br>Python, SQL, Java</div>
+
+<div class="skill"><b>Machine Learning</b><br>ML, DL, NLP, Computer Vision</div>
+
+<div class="skill"><b>Frameworks</b><br>TensorFlow, PyTorch, LangChain</div>
+
+<div class="skill"><b>Libraries</b><br>NumPy, Pandas, Scikit-learn</div>
+
+<div class="skill"><b>Database</b><br>MySQL, PostgreSQL</div>
+
+<div class="skill"><b>Tools</b><br>Git, GitHub, Docker, VS Code</div>
 
 </div>
 
----
+</section>
 
-## 🚀 Featured Projects
+<section>
 
-<table>
-<tr>
-<td width="50%">
+<h2>Projects</h2>
 
-### 📚 StudySync Pro
-A student productivity platform with Study Planner, Pomodoro Timer, Task Manager, Goal Tracking, and a Progress Analytics dashboard.
+<div class="card">
 
-**Tech:** HTML • CSS • JavaScript • Bootstrap  
-🔗 [Repo](https://github.com/vinayux8055/your-repository) &nbsp;•&nbsp; 🌐 Live Demo
+<h3>AI Resume Analyzer</h3>
 
-</td>
-<td width="50%">
+<p><b>Tech:</b> Python, Streamlit, NLP</p>
 
-### 🏫 College Website
-A responsive college website with academic info, faculty details, events, and an admissions section, built with performance and accessibility in mind.
+<ul>
 
-**Tech:** HTML • CSS • JavaScript • Bootstrap  
-🔗 [Repo](https://github.com/vinayux8055/your-repository) &nbsp;•&nbsp; 🌐 Live Demo
+<li>Analyzed resumes using NLP.</li>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+<li>Generated ATS recommendations.</li>
 
-### 🤖 AI Virtual Assistant
-A Python voice assistant with speech recognition, text-to-speech, and system automation for hands-free task execution.
+<li>Interactive Streamlit interface.</li>
 
-**Tech:** Python  
-🔗 [Repo](https://github.com/vinayux8055/your-repository)
-
-</td>
-<td width="50%">
-
-### 🛒 E-Commerce UI/UX
-A modern shopping app interface — wireframes, high-fidelity prototypes, user flows, and a full design system.
-
-**Tools:** Figma  
-🔗 Prototype Link
-
-</td>
-</tr>
-</table>
-> 💡 **Note:** Replace every `https://github.com/vinayux8055/vinayux8055` placeholder with the actual GitHub repository URL for that project. Once deployed, update the corresponding **Live Demo** 
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=vinayux8055&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayux8055&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayux8055&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinayux8055&theme=tokyo-night&hide_border=true"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=vinayux8055&theme=tokyonight&no-frame=true&column=4&margin-w=8"/>
+</ul>
 
 </div>
 
----
+<div class="card">
 
-## 🏅 Certifications
+<h3>Intelligent Chatbot using LLM</h3>
 
-| Certification | Issuer |
-|---|---|
-| ☕ Java Programming | Scaler |
-| 💼 Java Full Stack Development Internship | Anurag IT Solutions |
-| 🎨 UI/UX Design | Skill India |
-| 🔐 Cyber Security | Simplilearn |
+<p><b>Tech:</b> LangChain, Hugging Face, FAISS</p>
 
-## 🏆 Achievements
+<ul>
 
-- 🏅 **Rank 1200** in AP ECET (Andhra Pradesh Engineering Common Entrance Test)
-- 📢 Built a **4,000+ follower** LinkedIn community sharing technical content
-- 🤾 Represented school in **District-Level Kabaddi** competitions
+<li>Built an LLM-powered chatbot.</li>
 
----
+<li>Implemented RAG pipeline.</li>
 
-## 🌱 Currently Learning
+<li>Semantic search using vector database.</li>
 
-`Java Full Stack Development` `Advanced Java` `Node.js` `Firebase` `Data Structures & Algorithms` `Software Engineering`
-
-## 🎯 2026 Goals
-
-- 🚀 Land a Software Engineering internship
-- 💯 Solve 500+ DSA problems
-- 🌟 Ship 10+ full-stack projects
-- 📚 Master Java backend development
-- 🤝 Contribute to open-source projects
-
----
-
-<div align="center">
-
-## 📫 Let's Connect
-
-<a href="https://linkedin.com/in/vinayux8055"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:vinayux8055@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/u/vinayux8055"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://vinayuxportfolio.lovable.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-
-📞 +91-9949766982 &nbsp;|&nbsp; 📍 Mandapeta, Andhra Pradesh, India
-
-### ⭐ *"Code. Learn. Build. Repeat."* ⭐
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0AC9C9,100:0E75B6&height=100&section=footer"/>
+</ul>
 
 </div>
+
+<div class="card">
+
+<h3>House Price Prediction</h3>
+
+<p><b>Tech:</b> Python, Scikit-learn</p>
+
+<ul>
+
+<li>Regression model for price prediction.</li>
+
+<li>Feature engineering and preprocessing.</li>
+
+<li>Compared multiple ML algorithms.</li>
+
+</ul>
+
+</div>
+
+</section>
+
+<section>
+
+<h2>Education</h2>
+
+<div class="card">
+
+<h3>B.Tech – Computer Science & Engineering</h3>
+
+<p>Pragati Engineering College</p>
+
+<p>CGPA: 8.6 | 2025–2028</p>
+
+</div>
+
+<div class="card">
+
+<h3>Diploma – Computer Engineering</h3>
+
+<p>Aditya Polytechnic College</p>
+
+<p>95% | 2022–2025</p>
+
+</div>
+
+</section>
+
+<section>
+
+<h2>Certifications</h2>
+
+<ul>
+
+<li>Python for Data Science</li>
+
+<li>Machine Learning with Python</li>
+
+<li>Deep Learning Fundamentals</li>
+
+<li>Generative AI & LLMs</li>
+
+<li>SQL for Data Analytics</li>
+
+</ul>
+
+</section>
+
+<section>
+
+<h2>Achievements</h2>
+
+<ul>
+
+<li>Solved DSA problems on coding platforms.</li>
+
+<li>Built AI & ML projects using Python.</li>
+
+<li>Learning AI Agents, RAG and LLMs.</li>
+
+</ul>
+
+</section>
+
+<footer>
+
+Designed with ❤️ by Chollangi Srilokesh
+
+</footer>
+
+</div>
+
+</body>
+</html>

@@ -1,375 +1,131 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+# Hi 👋, I'm Chollangi Srilokesh
 
-<title>Chollangi Srilokesh | Resume</title>
+### 🚀 Aspiring AI Engineer | Machine Learning Enthusiast | Generative AI Learner
 
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
-
-<style>
-
-*{
-margin:0;
-padding:0;
-box-sizing:border-box;
-font-family:'Poppins',sans-serif;
-scroll-behavior:smooth;
-}
-
-body{
-background:linear-gradient(135deg,#0f172a,#1e3a8a,#2563eb);
-background-size:400% 400%;
-animation:bgAnimation 12s infinite alternate;
-padding:40px;
-}
-
-@keyframes bgAnimation{
-0%{background-position:left;}
-100%{background-position:right;}
-}
-
-.container{
-max-width:1000px;
-margin:auto;
-background:rgba(255,255,255,.12);
-backdrop-filter:blur(15px);
-border-radius:20px;
-padding:40px;
-color:white;
-box-shadow:0 15px 40px rgba(0,0,0,.4);
-animation:fadeUp 1.2s ease;
-}
-
-@keyframes fadeUp{
-from{
-opacity:0;
-transform:translateY(50px);
-}
-to{
-opacity:1;
-transform:translateY(0);
-}
-}
-
-header{
-text-align:center;
-padding-bottom:25px;
-border-bottom:2px solid rgba(255,255,255,.3);
-}
-
-header h1{
-font-size:42px;
-letter-spacing:2px;
-color:#00e5ff;
-text-shadow:0 0 15px cyan;
-}
-
-header h3{
-margin-top:10px;
-font-weight:400;
-color:#ddd;
-}
-
-.contact{
-margin-top:20px;
-display:flex;
-flex-wrap:wrap;
-justify-content:center;
-gap:20px;
-font-size:15px;
-}
-
-section{
-margin-top:35px;
-animation:slideIn 1s ease;
-}
-
-@keyframes slideIn{
-from{
-opacity:0;
-transform:translateX(-40px);
-}
-to{
-opacity:1;
-transform:translateX(0);
-}
-}
-
-h2{
-display:inline-block;
-padding-bottom:5px;
-border-bottom:3px solid #00e5ff;
-margin-bottom:15px;
-color:#00e5ff;
-}
-
-p{
-line-height:1.8;
-}
-
-ul{
-padding-left:20px;
-}
-
-li{
-margin-bottom:10px;
-transition:.3s;
-}
-
-li:hover{
-transform:translateX(10px);
-color:#00e5ff;
-}
-
-.card{
-background:rgba(255,255,255,.08);
-padding:20px;
-border-radius:15px;
-margin-bottom:20px;
-transition:.4s;
-border:1px solid rgba(255,255,255,.2);
-}
-
-.card:hover{
-transform:translateY(-8px) scale(1.02);
-box-shadow:0 15px 30px rgba(0,229,255,.3);
-}
-
-.skills{
-display:grid;
-grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
-gap:15px;
-}
-
-.skill{
-background:rgba(255,255,255,.08);
-padding:15px;
-border-radius:12px;
-transition:.4s;
-}
-
-.skill:hover{
-background:#00e5ff;
-color:#000;
-transform:scale(1.05);
-}
-
-footer{
-margin-top:40px;
-text-align:center;
-color:#ddd;
-font-size:14px;
-}
-
-@media(max-width:700px){
-
-header h1{
-font-size:30px;
-}
-
-.contact{
-flex-direction:column;
-align-items:center;
-}
-
-}
-
-</style>
-
-</head>
-
-<body>
-
-<div class="container">
-
-<header>
-
-<h1>CHOLLANGI SRILOKESH</h1>
-
-<h3>AI Engineer | Machine Learning Enthusiast</h3>
-
-<div class="contact">
-
-<div>📞 +91 6300852355</div>
-
-<div>📧 srilokeshchollangi369@gmail.com</div>
-
-<div>🔗 LinkedIn</div>
-
-<div>🔗 GitHub</div>
-
-</div>
-
-</header>
-
-<section>
-
-<h2>Professional Summary</h2>
-
-<p>
-
-Aspiring AI Engineer with strong knowledge of Python, Machine Learning,
-Deep Learning, Data Science and Generative AI. Passionate about building
-intelligent applications using LLMs, RAG, NLP and Computer Vision to solve
-real-world problems.
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+AI+Engineer;Machine+Learning+Enthusiast;Deep+Learning+Learner;Building+AI+Applications;Exploring+LLMs,+RAG+and+AI+Agents" alt="Typing SVG"/>
 </p>
 
-</section>
+---
 
-<section>
+## 👨‍💻 About Me
 
-<h2>Technical Skills</h2>
+- 🎓 B.Tech CSE Student at **Pragati Engineering College**
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI**
+- 🌱 Currently learning **Large Language Models (LLMs), RAG, AI Agents, and Advanced AI**
+- 💡 Love building AI-powered applications that solve real-world problems
+- 🎯 Goal: Become an AI Engineer and contribute to impactful AI solutions
 
-<div class="skills">
+---
 
-<div class="skill"><b>Languages</b><br>Python, SQL, Java</div>
+## 🛠️ Tech Stack
 
-<div class="skill"><b>Machine Learning</b><br>ML, DL, NLP, Computer Vision</div>
+### Programming Languages
 
-<div class="skill"><b>Frameworks</b><br>TensorFlow, PyTorch, LangChain</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<div class="skill"><b>Libraries</b><br>NumPy, Pandas, Scikit-learn</div>
+### AI & Machine Learning
 
-<div class="skill"><b>Database</b><br>MySQL, PostgreSQL</div>
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Natural Language Processing (NLP)
+- Computer Vision
+- Supervised & Unsupervised Learning
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
 
-<div class="skill"><b>Tools</b><br>Git, GitHub, Docker, VS Code</div>
+### Frameworks & Libraries
 
-</div>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 
-</section>
+---
 
-<section>
+## 🚀 Featured Projects
 
-<h2>Projects</h2>
+### 📄 AI Resume Analyzer
 
-<div class="card">
+- Developed an AI-powered resume analysis application.
+- Extracted resume information using NLP.
+- Generated ATS improvement suggestions.
+- Built with Python, Streamlit, and Scikit-learn.
 
-<h3>AI Resume Analyzer</h3>
+### 🤖 Intelligent Chatbot using LLM
 
-<p><b>Tech:</b> Python, Streamlit, NLP</p>
+- Developed a chatbot using Large Language Models.
+- Implemented Retrieval-Augmented Generation (RAG).
+- Used FAISS for semantic search.
+- Improved responses through prompt engineering.
 
-<ul>
+### 🏡 House Price Prediction
 
-<li>Analyzed resumes using NLP.</li>
+- Built a regression model using Scikit-learn.
+- Performed data preprocessing and feature engineering.
+- Compared multiple machine learning algorithms.
 
-<li>Generated ATS recommendations.</li>
+---
 
-<li>Interactive Streamlit interface.</li>
+## 🎓 Education
 
-</ul>
+**B.Tech – Computer Science & Engineering**  
+📍 Pragati Engineering College  
+**CGPA:** 8.6 (2025–2028)
 
-</div>
+**Diploma – Computer Engineering**  
+📍 Aditya Polytechnic College  
+**Percentage:** 95% (2022–2025)
 
-<div class="card">
+---
 
-<h3>Intelligent Chatbot using LLM</h3>
+## 📜 Certifications
 
-<p><b>Tech:</b> LangChain, Hugging Face, FAISS</p>
+- Python for Data Science
+- Machine Learning with Python
+- Deep Learning Fundamentals
+- Generative AI and Large Language Models
+- SQL for Data Analytics
 
-<ul>
+---
 
-<li>Built an LLM-powered chatbot.</li>
+## 🏆 Achievements
 
-<li>Implemented RAG pipeline.</li>
+- Solved Data Structures & Algorithms problems on coding platforms.
+- Built AI and Machine Learning projects using Python.
+- Continuously learning LLMs, AI Agents, and RAG.
 
-<li>Semantic search using vector database.</li>
+---
 
-</ul>
+## 📊 GitHub Stats
 
-</div>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Srilokesh-us&show_icons=true&theme=tokyonight" height="170"/>
 
-<div class="card">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srilokesh-us&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
-<h3>House Price Prediction</h3>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Srilokesh-us&theme=tokyonight"/>
+</p>
 
-<p><b>Tech:</b> Python, Scikit-learn</p>
+---
 
-<ul>
+## 🌐 Connect with Me
 
-<li>Regression model for price prediction.</li>
+[![GitHub](https://img.shields.io/badge/GitHub-Srilokesh--us-181717?style=for-the-badge&logo=github)](https://github.com/Srilokesh-us)
 
-<li>Feature engineering and preprocessing.</li>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chollangi%20Srilokesh-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/chollangi-srilokesh)
 
-<li>Compared multiple ML algorithms.</li>
+[![Gmail](https://img.shields.io/badge/Gmail-srilokeshchollangi369%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:srilokeshchollangi369@gmail.com)
 
-</ul>
+---
 
-</div>
-
-</section>
-
-<section>
-
-<h2>Education</h2>
-
-<div class="card">
-
-<h3>B.Tech – Computer Science & Engineering</h3>
-
-<p>Pragati Engineering College</p>
-
-<p>CGPA: 8.6 | 2025–2028</p>
-
-</div>
-
-<div class="card">
-
-<h3>Diploma – Computer Engineering</h3>
-
-<p>Aditya Polytechnic College</p>
-
-<p>95% | 2022–2025</p>
-
-</div>
-
-</section>
-
-<section>
-
-<h2>Certifications</h2>
-
-<ul>
-
-<li>Python for Data Science</li>
-
-<li>Machine Learning with Python</li>
-
-<li>Deep Learning Fundamentals</li>
-
-<li>Generative AI & LLMs</li>
-
-<li>SQL for Data Analytics</li>
-
-</ul>
-
-</section>
-
-<section>
-
-<h2>Achievements</h2>
-
-<ul>
-
-<li>Solved DSA problems on coding platforms.</li>
-
-<li>Built AI & ML projects using Python.</li>
-
-<li>Learning AI Agents, RAG and LLMs.</li>
-
-</ul>
-
-</section>
-
-<footer>
-
-Designed with ❤️ by Chollangi Srilokesh
-
-</footer>
-
-</div>
-
-</body>
-</html>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer"/>
+</p>

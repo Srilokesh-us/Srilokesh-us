@@ -1,20 +1,25 @@
-# Hi 👋, I'm Chollangi Srilokesh
-
-### 🚀 Aspiring AI Engineer | Machine Learning Enthusiast | Generative AI Learner
+<h1 align="center">Hi 👋, I'm Chollangi Srilokesh</h1>
+<h3 align="center">Aspiring AI Engineer | Machine Learning Enthusiast | Generative AI Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+AI+Engineer;Machine+Learning+Enthusiast;Deep+Learning+Learner;Building+AI+Applications;Exploring+LLMs,+RAG+and+AI+Agents" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+AI+Engineer;Machine+Learning+Enthusiast;Deep+Learning+Learner;Building+AI+Projects;Learning+LLMs,+RAG+%26+AI+Agents" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Srilokesh-us&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Srilokesh-us?style=for-the-badge&logo=github" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
 - 🎓 B.Tech CSE Student at **Pragati Engineering College**
-- 🤖 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI**
-- 🌱 Currently learning **Large Language Models (LLMs), RAG, AI Agents, and Advanced AI**
-- 💡 Love building AI-powered applications that solve real-world problems
-- 🎯 Goal: Become an AI Engineer and contribute to impactful AI solutions
+- 🤖 Aspiring **AI Engineer**
+- 🌱 Currently learning **Large Language Models (LLMs), RAG, AI Agents & Advanced Generative AI**
+- 💡 Passionate about solving real-world problems using AI
+- 📚 Strong foundation in Python, Machine Learning, Deep Learning, SQL, and Data Science
+- 🎯 Goal: Build intelligent AI applications that make a real-world impact
 
 ---
 
@@ -22,110 +27,158 @@
 
 ### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,mysql" />
+</p>
 
-### AI & Machine Learning
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
 
 - Machine Learning
 - Deep Learning
 - Generative AI
-- Natural Language Processing (NLP)
+- NLP
 - Computer Vision
-- Supervised & Unsupervised Learning
-- Large Language Models (LLMs)
+- LLMs
 - Retrieval-Augmented Generation (RAG)
+- LangChain
+- Hugging Face
+- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
 
-### Frameworks & Libraries
+### Tools
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postgres" />
+</p>
 
----
-
-## 🚀 Featured Projects
-
-### 📄 AI Resume Analyzer
-
-- Developed an AI-powered resume analysis application.
-- Extracted resume information using NLP.
-- Generated ATS improvement suggestions.
-- Built with Python, Streamlit, and Scikit-learn.
-
-### 🤖 Intelligent Chatbot using LLM
-
-- Developed a chatbot using Large Language Models.
-- Implemented Retrieval-Augmented Generation (RAG).
-- Used FAISS for semantic search.
-- Improved responses through prompt engineering.
-
-### 🏡 House Price Prediction
-
-- Built a regression model using Scikit-learn.
-- Performed data preprocessing and feature engineering.
-- Compared multiple machine learning algorithms.
+- Jupyter Notebook
+- Google Colab
+- Postman
 
 ---
 
-## 🎓 Education
+# 🚀 Featured Projects
 
-**B.Tech – Computer Science & Engineering**  
-📍 Pragati Engineering College  
-**CGPA:** 8.6 (2025–2028)
+## 📄 AI Resume Analyzer
 
-**Diploma – Computer Engineering**  
-📍 Aditya Polytechnic College  
-**Percentage:** 95% (2022–2025)
+- Resume parsing using NLP
+- ATS compatibility suggestions
+- Interactive Streamlit application
+
+**Tech:** Python • Streamlit • NLP • Scikit-learn
 
 ---
 
-## 📜 Certifications
+## 🤖 Intelligent Chatbot using LLM
+
+- Built using LangChain & Hugging Face
+- Retrieval-Augmented Generation (RAG)
+- Semantic Search with FAISS
+- Prompt Engineering
+
+---
+
+## 🏡 House Price Prediction
+
+- Machine Learning Regression
+- Data Cleaning
+- Feature Engineering
+- Model Evaluation
+
+---
+
+# 📜 Certifications
 
 - Python for Data Science
 - Machine Learning with Python
 - Deep Learning Fundamentals
-- Generative AI and Large Language Models
+- Generative AI & Large Language Models
 - SQL for Data Analytics
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
-- Solved Data Structures & Algorithms problems on coding platforms.
-- Built AI and Machine Learning projects using Python.
-- Continuously learning LLMs, AI Agents, and RAG.
+- Solved Data Structures & Algorithms problems.
+- Built multiple AI & Machine Learning projects.
+- Continuously learning modern AI technologies.
 
 ---
 
-## 📊 GitHub Stats
+# 📈 Coding Profiles
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Srilokesh-us&show_icons=true&theme=tokyonight" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srilokesh-us&layout=compact&theme=tokyonight" height="170"/>
+<a href="https://leetcode.com/u/Srilokesh_2025/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/srilokeshcholla1">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Srilokesh-us&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srilokesh-us&layout=compact&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=Srilokesh-us&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🌐 Connect with Me
+# 🌐 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Srilokesh--us-181717?style=for-the-badge&logo=github)](https://github.com/Srilokesh-us)
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chollangi%20Srilokesh-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/chollangi-srilokesh)
+<a href="mailto:srilokeshchollangi369@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-srilokeshchollangi369%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:srilokeshchollangi369@gmail.com)
+<a href="https://linkedin.com/in/chollangi-srilokesh">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Srilokesh-us">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Srilokesh_2025/">
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/srilokeshcholla1">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Srilokesh-us&theme=tokyonight&row=1&column=6"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00C9FF,100:92FE9D&section=footer"/>
 </p>

@@ -59,7 +59,6 @@
 
 📧 **Email:** srilokeshchollangi369@gmail.com
 
-📱 **Phone:** +91 6300852355
 
 ---
 

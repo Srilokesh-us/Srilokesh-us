@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- Wave banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:0AC9C9&height=200&section=header&text=Marnala%20Gopi%20Vinay&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20CSE%20Student&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:0AC9C9&height=200&section=header&text=Chollangi%20Sri%20Lokesh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20CSE%20Student&descAlignY=58&descSize=18" />
 
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Java+Full+Stack+Developer;Aspiring+Software+Engineer;UI%2FUX+Designer;Open+Source+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />

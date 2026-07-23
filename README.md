@@ -67,7 +67,6 @@
 
 </p>
 
-📧 **Email:** srilokeshchollangi369@gmail.com
 
 
 ---

@@ -1,3 +1,4 @@
+````markdown
 <!-- ========================= -->
 <!--      GITHUB PROFILE      -->
 <!-- ========================= -->
@@ -5,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Chollangi Srilokesh</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=AI+Engineer;Machine+Learning+Enthusiast;Deep+Learning+Explorer;Generative+AI+Developer;Building+Intelligent+AI+Solutions;Learning+LLMs+%7C+RAG+%7C+AI+Agents" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Python+Backend+Developer;Building+Scalable+REST+APIs;FastAPI+Learner;Python+%7C+SQL+%7C+PostgreSQL;Passionate+About+Backend+Development" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -22,20 +23,21 @@
 
 🎓 B.Tech Computer Science Student
 
-🤖 Aspiring **AI Engineer**
+💻 Aspiring **Python Backend Developer**
 
-🧠 Passionate about **Machine Learning, Deep Learning & Generative AI**
+🐍 Passionate about developing scalable backend applications, REST APIs, and database-driven systems.
 
-📚 Currently learning
+🌱 Currently Learning
 
-- Large Language Models (LLMs)
-- Retrieval Augmented Generation (RAG)
-- AI Agents
-- LangChain
-- Hugging Face
-- Advanced Deep Learning
+- FastAPI
+- REST API Development
+- SQLAlchemy
+- Pydantic
+- PostgreSQL
+- Docker
+- Authentication & Authorization (JWT)
 
-💡 I enjoy building AI solutions that solve real-world problems using data-driven intelligence.
+💡 I enjoy building reliable backend systems using Python while following clean coding practices.
 
 ---
 
@@ -55,93 +57,84 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://leetcode.com/u/Srilokesh_2025/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<a href="https://leetcode.com/u/Srilokesh_2025/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/profile/srilokeshcholla1" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<a href="https://www.hackerrank.com/profile/srilokeshcholla1">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
-
-
 
 </p>
-
-
 
 ---
 
 # 💻 Tech Stack
 
-## Programming Languages
+## 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql"/>
+</p>
+
+---
+
+## ⚙️ Backend Development
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,java,mysql"/>
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CRUD_Operations-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JWT_Authentication-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Client_Server_Architecture-success?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## AI • Machine Learning
+## 🗄️ Databases
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/NLP-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Computer%20Vision-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Generative%20AI-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## Data Science
+## 🛠️ Tools
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode"/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
 
 </p>
 
 ---
 
-## Databases
+## 📚 Core Computer Science
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
-
-</p>
-
----
-
-## Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman"/>
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
-
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab"/>
-
-</p>
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- Database Management Systems (DBMS)
+- Operating Systems (Basics)
+- Computer Networks (Basics)
+- MVC Architecture
+- JSON
+- HTTP / HTTPS
+- Error Handling
+- Debugging
 
 ---
 
@@ -163,145 +156,81 @@
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 
-<details open>
+## 📄 AI Resume Analyzer
 
-<summary><b>📄 AI Resume Analyzer</b></summary>
-
-### Tech Stack
-
-Python • Streamlit • Scikit-learn • NLP
-
-### Highlights
+**Tech Stack:** Python • Streamlit • Scikit-learn • NLP
 
 - ATS-based Resume Analysis
-- NLP-powered Resume Parsing
-- Smart Career Recommendations
+- Resume Parsing
+- Skill Recommendations
 - Interactive Streamlit Interface
-
-</details>
 
 ---
 
-<details>
+## 🤖 Intelligent Chatbot
 
-<summary><b>🤖 Intelligent Chatbot using LLM</b></summary>
-
-### Tech Stack
-
-Python • LangChain • Hugging Face • FAISS
-
-### Highlights
+**Tech Stack:** Python • LangChain • Hugging Face • FAISS
 
 - Retrieval-Augmented Generation (RAG)
 - Semantic Search
-- Context-aware AI Responses
-- Fast Document Retrieval
-
-</details>
+- Context-aware Responses
+- Prompt Engineering
 
 ---
 
-<details>
+## 🏠 House Price Prediction
 
-<summary><b>🏠 House Price Prediction</b></summary>
+**Tech Stack:** Python • Pandas • Scikit-learn
 
-### Tech Stack
-
-Python • Pandas • Scikit-learn
-
-### Highlights
-
-- Data Cleaning & Feature Engineering
-- Compared Multiple Regression Models
-- High Accuracy Price Prediction
-- Data Visualization & Evaluation
-
-</details>
+- Data Preprocessing
+- Feature Engineering
+- Multiple Regression Models
+- Model Evaluation
 
 ---
 
 # 🎓 Education
 
 | Degree | Institute | Score |
-|---------|-----------|--------|
-| B.Tech CSE | Pragati Engineering College | **CGPA: 8.6** |
-| Diploma Computer Engineering | Aditya Polytechnic College | **95%** |
+|---------|-----------|-------|
+| B.Tech – Computer Science & Engineering | Pragati Engineering College | **CGPA: 8.6** |
+| Diploma – Computer Engineering | Aditya Polytechnic College | **95%** |
 
 ---
 
-# 📜 Certifications
-
-✔ Python for Data Science
-
-✔ Machine Learning with Python
-
-✔ Deep Learning Fundamentals
-
-✔ Generative AI & Large Language Models
-
-✔ SQL for Data Analytics
-
----
-
-# 🏆 Achievements
-
-🏅 Solved DSA problems on coding platforms
-
-🏅 Built multiple AI & Machine Learning projects
-
-🏅 Exploring LLMs, RAG and AI Agents
-
-🏅 Passionate about Open Source & Continuous Learning
-
----
-
-# 📚 Core Concepts
-
-```
-✔ Data Structures & Algorithms
-
-✔ Object-Oriented Programming
-
-✔ Statistics
-
-✔ Probability
-
-✔ Linear Algebra
-
-✔ Data Preprocessing
-
-✔ Feature Engineering
-
-✔ Model Evaluation
-```
-
----
-
-# 🌱 Current Learning Journey
+# 🌱 Current Learning
 
 ```text
-Python           ████████████████████ 100%
+Python            ████████████████████ 100%
 
-Machine Learning ███████████████████░ 95%
+SQL               ███████████████████░ 95%
 
-Deep Learning    ██████████████████░░ 90%
+REST APIs         ██████████████████░░ 90%
 
-Generative AI    █████████████████░░░ 85%
+FastAPI           █████████████████░░░ 85%
 
-LangChain        ███████████████░░░░░ 75%
+PostgreSQL        █████████████████░░░ 85%
 
-LLMs             ██████████████░░░░░░ 70%
+SQLAlchemy        ███████████████░░░░░ 75%
 
-AI Agents        █████████████░░░░░░░ 65%
-```
+Docker            ██████████████░░░░░░ 70%
+
+System Design     ███████████░░░░░░░░░ 60%
+````
+
+---
+
+# 🎯 Career Objective
+
+I am passionate about building secure, scalable, and high-performance backend applications using Python. My goal is to become a skilled Python Backend Developer by continuously learning modern backend technologies, contributing to real-world projects, and solving challenging software development problems.
 
 ---
 
 # 💬 Favorite Quote
 
-> **"Artificial Intelligence is not about replacing humans—it's about empowering them."**
+> **"First, solve the problem. Then, write the code." – John Johnson**
 
 ---
 
@@ -309,6 +238,7 @@ AI Agents        █████████████░░░░░░░ 65
 
 ⭐ Thanks for visiting my profile ⭐
 
-🚀 Let's build the future with AI together!
+💙 Let's build scalable backend applications together!
 
 </h3>
+```

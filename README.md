@@ -1,4 +1,3 @@
-````markdown
 <!-- ========================= -->
 <!--      GITHUB PROFILE      -->
 <!-- ========================= -->
@@ -241,4 +240,4 @@ I am passionate about building secure, scalable, and high-performance backend ap
 💙 Let's build scalable backend applications together!
 
 </h3>
-```
+

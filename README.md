@@ -157,67 +157,6 @@
 
 # 🚀 Projects
 
-## 📄 AI Resume Analyzer
-
-**Tech Stack:** Python • Streamlit • Scikit-learn • NLP
-
-- ATS-based Resume Analysis
-- Resume Parsing
-- Skill Recommendations
-- Interactive Streamlit Interface
-
----
-
-## 🤖 Intelligent Chatbot
-
-**Tech Stack:** Python • LangChain • Hugging Face • FAISS
-
-- Retrieval-Augmented Generation (RAG)
-- Semantic Search
-- Context-aware Responses
-- Prompt Engineering
-
----
-
-## 🏠 House Price Prediction
-
-**Tech Stack:** Python • Pandas • Scikit-learn
-
-- Data Preprocessing
-- Feature Engineering
-- Multiple Regression Models
-- Model Evaluation
-
----
-
-# 🎓 Education
-
-| Degree | Institute | Score |
-|---------|-----------|-------|
-| B.Tech – Computer Science & Engineering | Pragati Engineering College | **CGPA: 8.6** |
-| Diploma – Computer Engineering | Aditya Polytechnic College | **95%** |
-
----
-
-# 🌱 Current Learning
-
-```text
-Python            ████████████████████ 100%
-
-SQL               ███████████████████░ 95%
-
-REST APIs         ██████████████████░░ 90%
-
-FastAPI           █████████████████░░░ 85%
-
-PostgreSQL        █████████████████░░░ 85%
-
-SQLAlchemy        ███████████████░░░░░ 75%
-
-Docker            ██████████████░░░░░░ 70%
-
-System Design     ███████████░░░░░░░░░ 60%
-````
 
 ---
 
@@ -229,7 +168,7 @@ I am passionate about building secure, scalable, and high-performance backend ap
 
 # 💬 Favorite Quote
 
-> **"First, solve the problem. Then, write the code." – John Johnson**
+> "Think Big , Start small , Grow Fast."
 
 ---
 

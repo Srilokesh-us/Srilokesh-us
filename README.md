@@ -25,6 +25,7 @@
  - python
  - Sql
  - Project Building
+ - Html , CSS , javascript
 
 💡 I enjoy building reliable backend systems using Python while following clean coding practices.
 

@@ -63,7 +63,7 @@
 ## 👨‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,sql"/>
 </p>
 
 

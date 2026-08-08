@@ -1,8 +1,5 @@
-<!-- ========================= -->
-<!--      GITHUB PROFILE      -->
-<!-- ========================= -->
 
-<h1 align="center">Hi 👋, I'm Chollangi Srilokesh</h1>
+<h1 align="center">Hello👋, I'm Chollangi Srilokesh</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Python+Backend+Developer;Building+Scalable+REST+APIs;FastAPI+Learner;Python+%7C+SQL+%7C+PostgreSQL;Passionate+About+Backend+Development" alt="Typing SVG"/>
@@ -18,8 +15,6 @@
 
 # 🚀 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">
-
 🎓 B.Tech Computer Science Student
 
 💻 Aspiring **Python Backend Developer**
@@ -27,14 +22,9 @@
 🐍 Passionate about developing scalable backend applications, REST APIs, and database-driven systems.
 
 🌱 Currently Learning
-
-- FastAPI
-- REST API Development
-- SQLAlchemy
-- Pydantic
-- PostgreSQL
-- Docker
-- Authentication & Authorization (JWT)
+ - python
+ - Sql
+ - Project Building
 
 💡 I enjoy building reliable backend systems using Python while following clean coding practices.
 
@@ -68,7 +58,7 @@
 
 ---
 
-# 💻 Tech Stack
+# 💻 Technical Skills
 
 ## 👨‍💻 Programming Languages
 
@@ -76,66 +66,10 @@
 <img src="https://skillicons.dev/icons?i=python,mysql"/>
 </p>
 
----
 
-## ⚙️ Backend Development
 
-<p>
 
-<img src="https://skillicons.dev/icons?i=fastapi"/>
 
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CRUD_Operations-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/JWT_Authentication-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Client_Server_Architecture-success?style=for-the-badge"/>
-
-</p>
-
----
-
-## 🗄️ Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
-
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge"/>
-
-</p>
-
----
-
-## 🛠️ Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode"/>
-
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
-
-</p>
-
----
-
-## 📚 Core Computer Science
-
-- Data Structures & Algorithms
-- Object-Oriented Programming (OOP)
-- Database Management Systems (DBMS)
-- Operating Systems (Basics)
-- Computer Networks (Basics)
-- MVC Architecture
-- JSON
-- HTTP / HTTPS
-- Error Handling
-- Debugging
-
----
 
 # 📈 GitHub Statistics
 

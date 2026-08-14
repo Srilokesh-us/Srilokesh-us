@@ -59,19 +59,9 @@
 
 # 💻 Technical Skills
 
-## 👨‍💻 Programming Languages
-## Data Structures and Algorithms
-## Structured Query Language
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,sql"/>
-</p>
-
-
-
-
-
-
+👨‍💻-- Programming Languages
+  -- Data Structures and Algorithms
+  -- Structured Query Language**
 
 
 # 🚀 Projects

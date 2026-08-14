@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello👋, I'm Chollangi Srilokesh</h1>
+<h1 align="center">Hello,I'm Chollangi Srilokesh</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Python+Backend+Developer;Building+Scalable+REST+APIs;FastAPI+Learner;Python+%7C+SQL+%7C+Passionate+About+Backend+Development" alt="Typing SVG"/>
@@ -14,8 +14,6 @@
 ---
 
 # 🚀 About Me
-
-🎓 B.Tech Computer Science Student
 
 💻 Aspiring **Python Backend Developer**
 
@@ -62,6 +60,8 @@
 # 💻 Technical Skills
 
 ## 👨‍💻 Programming Languages
+## Data Structures and Algorithms
+## Structured Query Language
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,sql"/>
